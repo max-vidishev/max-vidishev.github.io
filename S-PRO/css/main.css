@@ -418,11 +418,11 @@ body {
         bottom: 14%;
         width: 75px; } }
     .owl-nav .owl-prev {
-      width: 20px;
-      height: 18px; }
+      width: auto;
+      height: auto; }
     .owl-nav .owl-next {
-      width: 20px;
-      height: 18px; }
+      width: auto;
+      height: auto; }
   .slider-section .slideCounter {
     font-size: 0.75rem;
     font-family: Brown, sans-serif;

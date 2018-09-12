@@ -2,7 +2,7 @@ $(function() {
 	$('.owl-carousel').owlCarousel({
 		loop: true,
 		nav: true,
-		navText: ["<img aria-label='Previous' src='../img/nav-left.png'>", "<img aria-label='Next' src='../img/nav-right.png'>"],
+		navText: ["<img src='img/nav-left.png'>", "<img src='img/nav-right.png'>"],
 		autoplay: false,
 		smartSpeed: 1000,
 		autoplayTimeout: 2000,
